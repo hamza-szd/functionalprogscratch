@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sparkground/static/css/main.8b579702.css",
+    "main.js": "/sparkground/static/js/main.679c2ee8.js",
+    "index.html": "/sparkground/index.html",
+    "main.8b579702.css.map": "/sparkground/static/css/main.8b579702.css.map",
+    "main.679c2ee8.js.map": "/sparkground/static/js/main.679c2ee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b579702.css",
+    "static/js/main.679c2ee8.js"
+  ]
+}
