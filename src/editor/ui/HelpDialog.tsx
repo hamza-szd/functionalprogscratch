@@ -73,7 +73,7 @@ export default function HelpDialog({ show, onHide }: Props) {
             <p>
               This web app is built with TypeScript, React, and many supporting libraries. Source
               code and documentation is available{" "}
-              <a href="https://github.com/ThatsJustCheesy/sparkground">on GitHub</a>.
+              <a href="https://github.com/hamza-szd/functionalprogscratch">on GitHub</a>.
             </p>
           </Tab>
         </Tabs>
