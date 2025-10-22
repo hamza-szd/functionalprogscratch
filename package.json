@@ -1,7 +1,7 @@
 {
   "name": "visual-lisp",
   "version": "0.1.0",
-  "homepage": "https://igregory.ca/sparkground",
+  "homepage": "https://hamza-szd.github.io/functionalprogscratch",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
